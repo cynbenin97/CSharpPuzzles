@@ -1,0 +1,12 @@
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.deps.json
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.dll
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.pdb
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.AssemblyReference.cache
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfoInputs.cache
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfo.cs
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.dll
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\refint\PalindromeNumber.dll
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.pdb
+J:\repository\Csharp Practice\CSharpChallenges\PalindromeNumber\obj\Debug\net6.0\ref\PalindromeNumber.dll

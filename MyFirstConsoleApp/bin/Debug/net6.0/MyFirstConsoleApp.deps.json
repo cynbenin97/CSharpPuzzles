@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyFirstConsoleApp/1.0.0": {
+        "dependencies": {
+          "LongestCommonPrefix": "1.0.0",
+          "PalindromeNumber": "1.0.0",
+          "RomanNumeralToInteger": "1.0.0"
+        },
+        "runtime": {
+          "MyFirstConsoleApp.dll": {}
+        }
+      },
+      "LongestCommonPrefix/1.0.0": {
+        "runtime": {
+          "LongestCommonPrefix.dll": {}
+        }
+      },
+      "PalindromeNumber/1.0.0": {
+        "runtime": {
+          "PalindromeNumber.dll": {}
+        }
+      },
+      "RomanNumeralToInteger/1.0.0": {
+        "runtime": {
+          "RomanNumeralToInteger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LongestCommonPrefix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PalindromeNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RomanNumeralToInteger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

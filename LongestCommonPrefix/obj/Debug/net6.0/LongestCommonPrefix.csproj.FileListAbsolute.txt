@@ -1,0 +1,12 @@
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.deps.json
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.dll
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.pdb
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.csproj.AssemblyReference.cache
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfo.cs
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.dll
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\refint\LongestCommonPrefix.dll
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.pdb
+J:\repository\Csharp Practice\CSharpChallenges\LongestCommonPrefix\obj\Debug\net6.0\ref\LongestCommonPrefix.dll
